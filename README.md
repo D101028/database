@@ -1,2 +1,2 @@
 # database
-echisukibot: used to save the datas from heroku online bot, echisukibot.
+echisukibot: the database of the Railway online bot, echisukibot.
