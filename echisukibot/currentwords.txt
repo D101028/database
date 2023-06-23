@@ -89,7 +89,6 @@ trend
 publicize
 publicity
 outline
-outline
 primary
 stability
 stable
